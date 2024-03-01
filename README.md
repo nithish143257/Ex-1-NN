@@ -83,23 +83,23 @@ print(len(x_test))
 
 ## OUTPUT:
 ### The Dataset:
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/a6f3cd61-3a62-4cd5-b3c3-88e9df609625)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/c64cf59c-3337-4e72-baf3-a7971bb763d8)
 ### Dropping unwanted features
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/202353d8-f012-4211-b667-07665f5e5cb1)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/95b0e46e-2f11-4c11-9c04-2a0611ba4a3d)
 ### Checking for null values
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/0e93512d-db4b-4312-9e96-f532c8c0ab68)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/04383aee-13c4-4b99-856f-e3406774837e)
 ### Checking for duplication
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/525a0230-6861-416b-9b5f-ed6c83eeb6f3)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/19b2247f-1dd3-4870-a58c-dae2c6032797)
 ### Describing the dataset
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/9255ad1f-0e4f-40ed-a408-f88e5b77771f)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/cce905a0-9214-4d0d-96a8-7f8eb4a54a51)
 ### Scaling the values
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/0ba6f433-8d75-48d0-92bd-0f07b477ee37)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/c85d9637-07c5-4e7f-9fcc-efc532f213c3)
 ### X Features
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/c532979b-1269-4cf3-a537-9b323ef209d9)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/ed9df820-b7b4-498e-9faa-5eb74bf03bbc)
 ### Y Features
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/e905814a-0efe-4f83-8b0e-69e56102b172)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/2c0d4f55-3fb0-4c96-91f8-320e9aa8c6f3)
 ### Splitting the training and testing dataset
-![image](https://github.com/ShakthiSundar-K/Ex-1-NN/assets/128116143/57a5116f-695b-408a-bfa9-5e52cc216305)
+![image](https://github.com/nithish143257/Ex-1-NN/assets/113762839/8f5abe47-1525-492b-bd78-f6378c272c44)
 
 
 
